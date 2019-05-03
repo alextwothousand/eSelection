@@ -1,5 +1,6 @@
 // eSelection.inc - Rewritten version of mSelection.inc
 // Created for Interactive Roleplay - 17/03/2013 @ 10:20 PM.
+// Edits made by infin1tyy - 05/03/2019 @ 10:14 PM BST.
 
 #if !defined MAX_MENU_ITEMS
 	#define MAX_MENU_ITEMS (300)

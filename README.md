@@ -25,6 +25,7 @@ And finally, maintaining your version number`:
 
 Happy Pawning!
 -->
+As far as I can see on the net, eSelection is a fork of mSelection with a rewrite. I don't know much about it to be honest, other than that a old gamemode of mine uses it and I recently moved it over to sampctl, so I decided to create this. I also made some changes with const correctness and so on and so fourth.
 
 ## Installation
 
