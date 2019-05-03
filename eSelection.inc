@@ -119,9 +119,9 @@ stock HideModelSelectionMenu(playerid)
     g_ePlayerMenuData[playerid][g_eMenuIgnore] = true;
 
 	g_ePlayerMenuData[playerid][g_eMenuRot][0] = 0.0;
-    g_ePlayerMenuData[playerid][g_eMenuRot][1] = 0.0;
-    g_ePlayerMenuData[playerid][g_eMenuRot][2] = 0.0;
-    g_ePlayerMenuData[playerid][g_eMenuRot][3] = 0.0;
+	g_ePlayerMenuData[playerid][g_eMenuRot][1] = 0.0;
+	g_ePlayerMenuData[playerid][g_eMenuRot][2] = 0.0;
+	g_ePlayerMenuData[playerid][g_eMenuRot][3] = 0.0;
 
 	CancelSelectTextDraw(playerid);
 	return 1;
