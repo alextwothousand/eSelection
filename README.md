@@ -28,7 +28,7 @@ Happy Pawning!
 As far as I can see on the net, eSelection is a fork of mSelection with a rewrite. I don't know much about it to be honest, other than that a old gamemode of mine uses it and I recently moved it over to sampctl, so I decided to create this. I also made some changes with const correctness and so on and so fourth.
 
 Note from TommyB: `hey that's the include an ex rcrp dev took and claimed he made!`
-Credits to TommyB for making it I suppose.
+Credits go to the original include creator, whoever that was. Tsk tsk, naughty ex-RCRP dev.
 
 ## Installation
 
