@@ -1,3 +1,4 @@
+### DEPRECATED-- I WOULD SUGGEST USING https://github.com/TommyB123/eSelection
 # eSelection
 
 [![sampctl](https://shields.southcla.ws/badge/sampctl-eSelection-2f2f2f.svg?style=for-the-badge)](https://github.com/infin1tyy/eSelection)
